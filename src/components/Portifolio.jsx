@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom'; // Importante para navegação sem recarregar
 
-import Brastel from '../assets/brastel.png';
+import Brastel from '../assets/Brastel.png';
 import pokemon from '../assets/pokemon.png';
 import quiz from '../assets/quiz.png';
 import nbl from '../assets/nbl.png';
