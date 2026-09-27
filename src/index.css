@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* No Tailwind v4 usa-se @utility para criar classes utilitárias customizadas */

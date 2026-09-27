@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi There! I'm",
+    "description": "Front-end Developer and UI/UX Designer crafting modern digital experiences.",
+    "downloadCv": "Download CV"
+  },
+  "roles": {
+    "web_developer": "Web Developer",
+    "ui_ux_designer": "UI/UX Designer"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Professional Profile - There Is All About Me",
+    "greeting": "I'm Pedro Kayky",
+    "bio_paragraph_1": "I have been studying programming for 3 years, specializing as a Front-end Developer focused on creating modern, responsive, and intuitive web interfaces. I am passionate about bringing designs to life through clean and efficient code.",
+    "bio_paragraph_2": "Currently based in Japan, I am studying Business and IT. This combination allows me to unite technical front-end development with a strategic business mindset, building digital products that deliver real value to users and organizations."
+  },
+  "info": {
+    "dob_label": "Date of Birth",
+    "dob_val": "June 28, 2004",
+    "nationality_label": "Nationality",
+    "nationality_val": "Brazilian",
+    "freelance_label": "Freelance",
+    "freelance_val": "Available",
+    "phone_label": "Phone",
+    "phone_val": "+81 70 8507-5013",
+    "address_label": "Address",
+    "address_val": "Nagano, Japan",
+    "email_label": "Email",
+    "email_val": "pedro.kayky@example.com",
+    "languages_label": "Languages",
+    "languages_val": "Portuguese, English, Japanese"
+  },
+  "services": {
+    "section_title": "My Services",
+    "section_subtitle": "What I Can Do For You",
+    "web_dev": {
+      "title": "Web Development",
+      "desc": "Building modern, fast, and scalable websites and web applications using React and Tailwind CSS."
+    },
+    "ui_ux": {
+      "title": "UI/UX Design",
+      "desc": "Crafting clean, intuitive, and user-centered interfaces with Figma for seamless digital experiences."
+    },
+    "responsive": {
+      "title": "Responsive Design",
+      "desc": "Ensuring your website looks and works flawlessly across all devices, from mobile to desktop."
+    },
+    "performance": {
+      "title": "Performance & SEO",
+      "desc": "Optimizing page load speed and structuring clean code for improved search engine rankings."
+    },
+    "api": {
+      "title": "API Integration",
+      "desc": "Connecting front-end applications with RESTful APIs, databases, and dynamic external services."
+    },
+    "branding": {
+      "title": "Brand Identity",
+      "desc": "Creating impactful visual elements, color schemes, and styles to strengthen your brand presence."
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "See My Recent Works & Projects",
+    "view_project": "View Project",
+    "filters": {
+      "all": "All",
+      "designing": "Design / UI",
+      "websites": "Websites"
+    },
+   "projects": {
+  "brastel": {
+    "title": "Brastel Conceptual Redesign",
+    "category": "UI/UX Design & Prototype",
+    "overview": "A conceptual redesign project for the Brastel website interface. The goal was to create a more modern, intuitive, and visually appealing experience using Figma, reorganizing information architecture and visual hierarchy while preserving the brand's core identity.",
+    "feature1": "Modern UI/UX designed from scratch in Figma, following contemporary visual best practices.",
+    "feature2": "High-fidelity interactive prototyping simulating real user navigation flows for mobile and desktop.",
+    "feature3": "Design system and style guide including updated color palettes, typography, and reusable components.",
+    "challenge1": {
+      "title": "Modernization Without Losing Brand Identity",
+      "desc": "The original website was cluttered and visually outdated, requiring content reorganization to maintain clarity for multilingual users.",
+      "sol": "Structured a clean layout with optimized contrast, simplified menus, and responsive components built in Figma."
+    }
+  },
+  "pokemon": {
+    "title": "Pokedex Web App",
+    "category": "Web Development",
+    "overview": "An interactive web application built to explore Pokémon data in real time using the PokéAPI, focusing on user experience and fast response times.",
+    "feature1": "Asynchronous PokéAPI fetching for dynamic search and detailed stats view.",
+    "feature2": "Responsive UI built with React and styled using Tailwind CSS.",
+    "feature3": "Type filtering and pagination system to optimize image loading.",
+    "challenge1": {
+      "title": "Optimizing API Requests and Image Loading",
+      "desc": "The large volume of data and API requests caused slow initial rendering times.",
+      "sol": "Implemented lazy loading for images and efficient request pagination."
+    }
+  },
+  "nbl": {
+    "title": "School Festival Promotional Poster",
+    "category": "Graphic Design & Marketing",
+    "overview": "Promotional graphic material created for the vocational school (専門学校) cultural festival. The project aimed to deliver an eye-catching visual piece to attract visitors and students to the event.",
+    "feature1": "Vibrant visual layout designed in Canva tailored to the festival theme.",
+    "feature2": "Clear information hierarchy highlighting event dates, times, and main attractions.",
+    "feature3": "Formats optimized for both printed poster displays and social media promotion.",
+    "challenge1": {
+      "title": "Organizing Extensive Information Visually",
+      "desc": "Fitting event rules, schedules, and attractions into a single poster without cluttering the composition.",
+      "sol": "Used contrasting color blocks and well-spaced typography to present information clearly and readably."
+    }
+  },
+  "quiz": {
+    "title": "Programming Quiz",
+    "category": "Interactive Web App",
+    "overview": "An interactive quiz game designed to test knowledge in web development and programming concepts.",
+    "feature1": "Complex state management in React for scoring and timer tracking.",
+    "feature2": "Dynamic UI with instant visual feedback for correct and incorrect answers.",
+    "feature3": "Final summary screen displaying overall performance and question reviews.",
+    "challenge1": {
+      "title": "Timer State Control and Screen Transitions",
+      "desc": "Synchronizing question timers with automatic screen transitions without causing unnecessary re-renders.",
+      "sol": "Optimized usage of useEffect and useRef hooks to manage timer lifecycle smoothly."
+    }
+  },
+  "one-piece": {
+    "title": "McDonald's x One Piece Campaign",
+    "category": "Design & Marketing",
+    "overview": "Academic marketing project proposing a collaboration campaign between McDonald's and the anime One Piece to launch a limited-edition meal combo.",
+    "feature1": "Marketing strategy conceptualization and target audience definition.",
+    "feature2": "Promotional banners and social media assets designed in Canva.",
+    "feature3": "Brand identity blend combining McDonald's corporate look with One Piece elements.",
+    "challenge1": {
+      "title": "Merging Two Iconic Brand Identities",
+      "desc": "Preserving McDonald's brand recognition while integrating the distinct aesthetic of One Piece.",
+      "sol": "Balanced McDonald's core red-and-yellow colors with key character illustrations and anime typography."
+    }
+  },
+  "github": {
+    "title": "GitHub Profile Searcher",
+    "category": "Web Development",
+    "overview": "A web application designed to fetch real-time data from the official GitHub REST API. Users can search for any profile, view detailed statistics, and explore public repositories.",
+    "feature1": "Full integration with GitHub REST API using Axios/Fetch.",
+    "feature2": "Detailed profile breakdown (followers, repositories, stars, and bio).",
+    "feature3": "Fast search interface with user-friendly error handling for missing profiles.",
+    "challenge1": {
+      "title": "Handling API Rate Limits and Error States",
+      "desc": "Managing invalid user inputs and public API rate limitations gracefully.",
+      "sol": "Created visual error state components and handled response status codes (e.g., 404) properly."
+    }
+  }
+}
+  },
+  "project_details": {
+    "not_found": "Project not found",
+    "back": "Back",
+    "live_demo": "Live Demo",
+    "github_repo": "GitHub Repository",
+    "overview": "Overview",
+    "features": "Key Features",
+    "challenges": "Challenges & Solutions",
+    "challenge_label": "Challenge",
+    "solution_label": "Solution",
+    "info": "Information",
+    "category": "Category",
+    "technologies": "Technologies"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Feel free to drop me a line",
+    "footer_description": "Front-end Developer and UI/UX Designer focused on building modern, scalable, and intuitive digital experiences.",
+    "copyright": "Copyright © All rights reserved. Built with React & Tailwind CSS.",
+    "cards": {
+      "address_title": "Address",
+      "address_val": "Nagano, Japan",
+      "phone_title": "Phone No.",
+      "email_title": "Email"
+    },
+    "form": {
+      "name_placeholder": "Your Name",
+      "email_placeholder": "Your Email Address",
+      "subject_placeholder": "Subject",
+      "message_placeholder": "How can I help you?",
+      "button": "Contact Now",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I will get back to you soon.",
+      "error": "Failed to send the message. Please try again later."
+    }
+  }
+}

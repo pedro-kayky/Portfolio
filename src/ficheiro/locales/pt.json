@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "portfolio": "Portfólio",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá! Eu sou",
+    "description": "Desenvolvedor Front-end e UI/UX Designer criando experiências digitais modernas.",
+    "downloadCv": "Baixar currículo"
+  },
+  "roles": {
+    "web_developer": "Desenvolvedor Web",
+    "ui_ux_designer": "Designer UI/UX"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Perfil Profissional - Tudo Sobre Mim",
+    "greeting": "Eu sou Pedro Kayky",
+    "bio_paragraph_1": "Estudo e pratico programação há 3 anos, tendo me especializado como desenvolvedor Front-end focado na criação de interfaces modernas, responsivas e intuitivas. Tenho grande paixão por transformar conceitos e designs em códigos limpos e funcionais.",
+    "bio_paragraph_2": "Atualmente, moro no Japão e curso Business (TI e Gestão de Negócios). Essa combinação me permite unir a bagagem técnica de desenvolvimento web à visão estratégica de mercado, criando soluções digitais que realmente agregam valor aos usuários e empresas."
+  },
+  "info": {
+    "dob_label": "Data de Nascimento",
+    "dob_val": "28 de junho de 2004",
+    "nationality_label": "Nacionalidade",
+    "nationality_val": "Brasileira",
+    "freelance_label": "Freelance",
+    "freelance_val": "Disponível",
+    "phone_label": "Telefone",
+    "phone_val": "+81 70 8507-5013",
+    "address_label": "Endereço",
+    "address_val": "Nagano, Japão",
+    "email_label": "Email",
+    "email_val": "pedro.kayky@example.com",
+    "languages_label": "Idiomas",
+    "languages_val": "Português, Inglês, Japonês"
+  },
+  "services": {
+    "section_title": "Meus Serviços",
+    "section_subtitle": "O Que Eu Posso Fazer Por Você",
+    "web_dev": {
+      "title": "Desenvolvimento Web",
+      "desc": "Desenvolvimento de sites e aplicações web modernas, rápidas e escaláveis utilizando React e Tailwind CSS."
+    },
+    "ui_ux": {
+      "title": "UI/UX Design",
+      "desc": "Criação de interfaces elegantes, funcionais e focadas na melhor experiência do usuário utilizando Figma."
+    },
+    "responsive": {
+      "title": "Design Responsivo",
+      "desc": "Garantia de que seu site funcione perfeitamente em qualquer dispositivo, seja smartphone, tablet ou desktop."
+    },
+    "performance": {
+      "title": "Performance & SEO",
+      "desc": "Otimização de carregamento e estruturação de código para melhor ranqueamento nos motores de busca."
+    },
+    "api": {
+      "title": "Integração de APIs",
+      "desc": "Conexão de sistemas frontend com APIs RESTful, bancos de dados e serviços dinâmicos."
+    },
+    "branding": {
+      "title": "Identidade Visual",
+      "desc": "Criação de elementos visuais marcantes, esquemas de cores e estilos para consolidar sua marca no meio digital."
+    }
+  },
+  "portfolio": {
+    "title": "Portfólio",
+    "subtitle": "Veja meus trabalhos e projetos recentes",
+    "view_project": "Ver Projeto",
+    "filters": {
+      "all": "Todos",
+      "designing": "Design / UI",
+      "websites": "Websites"
+    },
+    "projects": {
+  "brastel": {
+    "title": "Redesign Conceitual do Site Brastel",
+    "category": "UI/UX Design & Prototype",
+    "overview": "Projeto de redesign conceitual para a interface do site da Brastel. O objetivo foi criar uma experiência visual mais moderna, intuitiva e atraente no Figma, reformulando a arquitetura de informação e a hierarquia visual sem perder a identidade funcional da marca.",
+    "feature1": "UI/UX moderna projetada do zero no Figma, alinhada com as melhores práticas visuais contemporâneas.",
+    "feature2": "Prototipagem interativa de alta fidelidade para simulação de fluxo de usuário em desktop.",
+    "feature3": "Design system e guia de estilos com nova paleta de cores, tipografia e componentes reutilizáveis.",
+    "challenge1": {
+      "title": "Modernização sem Perder a Identidade da Marca",
+      "desc": "O site original possuía muitas informações e um visual datado, o que exigiu reorganizar o conteúdo mantendo a clareza para usuários multilíngues.",
+      "sol": "Estruturação de um layout limpo com contraste otimizado, menus simplificados e componentes responsivos desenvolvidos no Figma."
+    }
+  },
+  "pokemon": {
+    "title": "Pokedex Web App",
+    "category": "Desenvolvimento Web",
+    "overview": "Aplicação web interativa criada para consultar informações de Pokémon em tempo real consumindo a PokéAPI. Foco na experiência do usuário e alta velocidade de resposta.",
+    "feature1": "Consumo assíncrono da PokéAPI para busca dinâmica de Pokémons e detalhes de habilidades.",
+    "feature2": "Interface responsiva construída com React e estilizada via Tailwind CSS.",
+    "feature3": "Filtros por tipo e sistema de paginação para otimizar o carregamento de imagens.",
+    "challenge1": {
+      "title": "Otimização de Requisições e Carregamento de Imagens",
+      "desc": "O grande volume de dados e requisições à API tornava a navegação inicial lenta.",
+      "sol": "Implementação de lazy-loading para imagens e paginação eficiente das requisições."
+    }
+  },
+  "nbl": {
+    "title": "Poster Promocional do Festival Escolar",
+    "category": "Design Gráfico & Marketing",
+    "overview": "Material gráfico promocional desenvolvido para o festival escolar da 専門学校. O projeto focou em criar uma peça visual impactante e informativa para atrair visitantes e estudantes para o evento.",
+    "feature1": "Composição visual vibrante criada no Canva alinhada ao tema do festival.",
+    "feature2": "Hierarquia de informação clara destacando datas, horários e atrações do evento.",
+    "feature3": "Formatos otimizados tanto para impressão de pôsteres quanto para divulgação em redes sociais.",
+    "challenge1": {
+      "title": "Organização Visual de Muitas Informações",
+      "desc": "A necessidade de incluir regras, horários e atrações no mesmo cartaz sem poluir o visual.",
+      "sol": "Uso de blocos de cor contrastantes e tipografia bem distribuída para organizar as informações de forma legível."
+    }
+  },
+  "quiz": {
+    "title": "Quiz de Programação",
+    "category": "Aplicação Web Interativa",
+    "overview": "Um jogo interativo de perguntas e respostas voltado para testar conhecimentos em linguagens de programação e desenvolvimento web.",
+    "feature1": "Gerenciamento de estado complexo em React para pontuação e tempo de resposta.",
+    "feature2": "Design dinâmico com feedbacks visuais instantâneos para respostas certas e erradas.",
+    "feature3": "Tela final com resumo de desempenho e revisão das questões.",
+    "challenge1": {
+      "title": "Controle de Estado do Cronômetro e Transições",
+      "desc": "Sincronizar o tempo de cada questão com as transições automáticas de tela sem causar re-renders desnecessários.",
+      "sol": "Uso otimizado dos hooks useEffect e useRef para controlar o ciclo de vida do cronômetro."
+    }
+  },
+  "one-piece": {
+    "title": "Campanha McDonalds x One Piece",
+    "category": "Design & Marketing",
+    "overview": "Projeto acadêmico criado para a aula de Marketing, simulando uma campanha colaborativa entre o McDonald's e o anime One Piece para o lançamento de um novo combo de produtos.",
+    "feature1": "Conceituação da estratégia de marketing e público-alvo da colaboração.",
+    "feature2": "Design promocional e peças visuais para redes sociais desenvolvidas no Canva.",
+    "feature3": "Aplicação de branding combinando a identidade do McDonald's com elementos visuais de One Piece.",
+    "challenge1": {
+      "title": "União de Duas Identidades Visuais Fortes",
+      "desc": "Manter o reconhecimento visual do McDonald's enquanto incorporava a estética de One Piece.",
+      "sol": "Equilíbrio das cores institucionais do McDonald's (vermelho e amarelo) com elementos de ilustração e tipografia marcantes do anime."
+    }
+  },
+  "github": {
+    "title": "Buscador de Perfis do GitHub",
+    "category": "Desenvolvimento Web",
+    "overview": "Aplicação web desenvolvida para consultar a API oficial do GitHub em tempo real. Permite buscar qualquer usuário, visualizar seus dados de perfil e explorar a lista de repositórios públicos.",
+    "feature1": "Integração completa com a REST API do GitHub utilizando Axios/Fetch.",
+    "feature2": "Exibição detalhada de estatísticas (seguidores, repositórios, estrelas e biografia).",
+    "feature3": "Interface de busca rápida com tratamento de erros para usuários não encontrados.",
+    "challenge1": {
+      "title": "Tratamento de Limite de Requisições e Erros",
+      "desc": "Lidar com buscas por nomes de usuário inválidos e com a limitação de requisições da API pública.",
+      "sol": "Criação de componentes de feedback visual para o usuário e tratamento correto dos códigos de status de erro (ex: 404)."
+    }
+  }
+}
+  },
+  "project_details": {
+    "not_found": "Projeto não encontrado",
+    "back": "Voltar",
+    "live_demo": "Live Demo",
+    "github_repo": "Repositório GitHub",
+    "overview": "Visão Geral",
+    "features": "Funcionalidades Principais",
+    "challenges": "Desafios e Soluções",
+    "challenge_label": "Desafio",
+    "solution_label": "Solução",
+    "info": "Informações",
+    "category": "Categoria",
+    "technologies": "Tecnologias"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Sinta-se à vontade para enviar uma mensagem",
+    "footer_description": "Desenvolvedor Front-end e UI/UX Designer focado em construir produtos digitais modernos, escaláveis e intuitivos.",
+    "copyright": "Copyright © Todos os direitos reservados. Desenvolvido com React & Tailwind CSS.",
+    "cards": {
+      "address_title": "Endereço",
+      "address_val": "Nagano, Japão",
+      "phone_title": "Telefone",
+      "email_title": "E-mail"
+    },
+    "form": {
+      "name_placeholder": "Seu Nome",
+      "email_placeholder": "Seu Endereço de E-mail",
+      "subject_placeholder": "Assunto",
+      "message_placeholder": "Como posso te ajudar?",
+      "button": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada com sucesso! Entrarei em contato em breve.",
+      "error": "Ocorreu um erro ao enviar a mensagem. Tente novamente mais tarde."
+    }
+  }
+}
