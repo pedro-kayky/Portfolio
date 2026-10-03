@@ -56,7 +56,7 @@ const Home = () => {
 
           <div className="pt-2">
             <a
-              href="/curriculo.pdf"
+              href="/Curriculo.pdf"
               download="Pedro_Kayky_CV.pdf"
               className="inline-block border border-white/80 text-white px-7 py-2.5 rounded text-sm font-medium hover:bg-[#f43f5e] hover:border-[#f43f5e] hover:text-white transition duration-300 cursor-pointer"
             >

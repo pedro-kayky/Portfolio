@@ -1,6 +1,6 @@
 import brastel from '../../assets/Brastel.png';
 import pokemonimg from '../../assets/pokemon.png';
-import nblimg from '../../assets/nbl.png';
+import appimg from '../../assets/appfinancas.png';
 import quizimg from '../../assets/quiz.png';
 import onepieceimg from '../../assets/onepiece.png';
 import githubimg from '../../assets/github.png';
@@ -11,7 +11,7 @@ export const projectsData = [
     subtitleKey: 'portfolio.projects.brastel.category',
     tags: ['Figma', 'UI/UX Design', 'Prototyping'],
     image: brastel, 
-    figmaUrl: 'https://www.figma.com/design/Kgt7HaJQBJDiksZmJ191Fk/brastel?node-id=0-1&t=neaYgW5evPPBM8k6-1',
+    figmaUrl: 'https://www.figma.com/design/Kgt7HaJQBJDiksZmJ191Fk/brastel?node-id=0-1&t=kvbZCAMG6M8mUySD-1',
     overviewKey: 'portfolio.projects.brastel.overview',
     featuresKeys: [
       'portfolio.projects.brastel.feature1',
@@ -50,22 +50,22 @@ export const projectsData = [
     categoryLabelKey: 'portfolio.projects.pokemon.category'
   },
   {
-    id: 'nbl',
-    titleKey: 'portfolio.projects.nbl.title',
-    subtitleKey: 'portfolio.projects.nbl.category',
-    tags: ['canva', 'Graphic Design', "Poster Design"],
-    image: nblimg,
-    canvaUrl :'https://canva.link/kbjdiajkbk9qyne',
-    overviewKey: 'portfolio.projects.nbl.overview',
-    featuresKeys: ['portfolio.projects.nbl.feature1'],
+    id: 'app',
+    titleKey: 'portfolio.projects.app.title',
+    subtitleKey: 'portfolio.projects.app.category',
+    tags: ['UI/UX', 'Mobile App', 'Fintech', 'Figma'],
+    image: appimg,
+    figmaUrl: 'https://www.figma.com/design/oGNUpz5ChyhXVvu28YCRwg/Untitled?node-id=0-1&t=fobrP02U84ch02w8-1',
+    overviewKey: 'portfolio.projects.app.overview',
+    featuresKeys: ['portfolio.projects.app.feature1'],
     challengesKeys: [
       {
-        titleKey: 'portfolio.projects.nbl.challenge1.title',
-        descKey: 'portfolio.projects.nbl.challenge1.desc',
-        solKey: 'portfolio.projects.nbl.challenge1.sol'
+        titleKey: 'portfolio.projects.app.challenge1.title',
+        descKey: 'portfolio.projects.app.challenge1.desc',
+        solKey: 'portfolio.projects.app.challenge1.sol'
       }
     ],
-    categoryLabelKey: 'portfolio.projects.nbl.category'
+    categoryLabelKey: 'portfolio.projects.app.category'
   },
   {
     id: 'quiz',

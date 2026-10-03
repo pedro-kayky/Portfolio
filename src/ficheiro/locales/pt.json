@@ -102,19 +102,19 @@
       "sol": "Implementação de lazy-loading para imagens e paginação eficiente das requisições."
     }
   },
-  "nbl": {
-    "title": "Poster Promocional do Festival Escolar",
-    "category": "Design Gráfico & Marketing",
-    "overview": "Material gráfico promocional desenvolvido para o festival escolar da 専門学校. O projeto focou em criar uma peça visual impactante e informativa para atrair visitantes e estudantes para o evento.",
-    "feature1": "Composição visual vibrante criada no Canva alinhada ao tema do festival.",
-    "feature2": "Hierarquia de informação clara destacando datas, horários e atrações do evento.",
-    "feature3": "Formatos otimizados tanto para impressão de pôsteres quanto para divulgação em redes sociais.",
-    "challenge1": {
-      "title": "Organização Visual de Muitas Informações",
-      "desc": "A necessidade de incluir regras, horários e atrações no mesmo cartaz sem poluir o visual.",
-      "sol": "Uso de blocos de cor contrastantes e tipografia bem distribuída para organizar as informações de forma legível."
-    }
-  },
+  "app": {
+  "title": "Kakeibo — Personal Finance App",
+  "category": "UI/UX Design & Mobile App",
+  "overview": "Kakeibo é um aplicativo mobile de finanças pessoais inspirado no conceito japonês de kakeibo. O projeto foi desenvolvido para ajudar jovens adultos a acompanhar seus gastos, organizar o orçamento e definir metas financeiras de forma simples, visual e intuitiva.",
+  "feature1": "Dashboard visual com saldo, gastos recentes e visão geral dos hábitos financeiros.",
+  "feature2": "Fluxos rápidos para registrar despesas, realizar transferências e acompanhar o orçamento mensal.",
+  "feature3": "Sistema de metas e análises visuais para ajudar usuários a entender seus gastos e manter seus objetivos financeiros.",
+  "challenge1": {
+    "title": "Tornar as Finanças Simples e Intuitivas",
+    "desc": "Aplicativos financeiros podem apresentar muitas informações ao mesmo tempo, tornando difícil entender rapidamente a situação financeira.",
+    "sol": "Criação de uma interface limpa e visual, utilizando hierarquia de informações, componentes consistentes e gráficos simples para transformar dados financeiros em informações fáceis de entender."
+  }
+},
   "quiz": {
     "title": "Quiz de Programação",
     "category": "Aplicação Web Interativa",

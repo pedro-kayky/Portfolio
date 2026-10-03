@@ -102,19 +102,19 @@
       "sol": "Implemented lazy loading for images and efficient request pagination."
     }
   },
-  "nbl": {
-    "title": "School Festival Promotional Poster",
-    "category": "Graphic Design & Marketing",
-    "overview": "Promotional graphic material created for the vocational school (専門学校) cultural festival. The project aimed to deliver an eye-catching visual piece to attract visitors and students to the event.",
-    "feature1": "Vibrant visual layout designed in Canva tailored to the festival theme.",
-    "feature2": "Clear information hierarchy highlighting event dates, times, and main attractions.",
-    "feature3": "Formats optimized for both printed poster displays and social media promotion.",
-    "challenge1": {
-      "title": "Organizing Extensive Information Visually",
-      "desc": "Fitting event rules, schedules, and attractions into a single poster without cluttering the composition.",
-      "sol": "Used contrasting color blocks and well-spaced typography to present information clearly and readably."
-    }
-  },
+  "app": {
+  "title": "Kakeibo — Personal Finance App",
+  "category": "UI/UX Design & Mobile App",
+  "overview": "Kakeibo is a personal finance mobile app inspired by the Japanese concept of kakeibo. The project was designed to help young adults track their spending, manage their budget, and set financial goals through a simple, visual, and intuitive experience.",
+  "feature1": "A visual dashboard with balance, recent transactions, and an overview of spending habits.",
+  "feature2": "Quick flows for recording expenses, making transfers, and managing the monthly budget.",
+  "feature3": "Goal tracking and visual analytics that help users understand their spending and stay on track with their financial goals.",
+  "challenge1": {
+    "title": "Making Personal Finance Simple and Intuitive",
+    "desc": "Financial apps can present a large amount of information at once, making it difficult for users to quickly understand their financial situation.",
+    "sol": "A clean and visual interface was created using clear information hierarchy, consistent components, and simple charts to turn financial data into easy-to-understand insights."
+  }
+},
   "quiz": {
     "title": "Programming Quiz",
     "category": "Interactive Web App",

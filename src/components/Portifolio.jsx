@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import Brastel from '../assets/Brastel.png';
 import pokemon from '../assets/pokemon.png';
 import quiz from '../assets/quiz.png';
-import nbl from '../assets/nbl.png';
+import app from '../assets/appfinancas.png';
 import github from '../assets/github.png';
 import one from '../assets/onepiece.png';
 
@@ -31,11 +31,11 @@ const Portfolio = () => {
       image: pokemon,
     },
     {
-      id: 'nbl',
-      titleKey: 'portfolio.projects.nbl.title',
+      id: 'app',
+      titleKey: 'portfolio.projects.app.title',
       categoryKey: 'Designing',
       categoryLabelKey: 'portfolio.filters.designing',
-      image: nbl,
+      image: app,
     },
     {
       id: 'quiz',
